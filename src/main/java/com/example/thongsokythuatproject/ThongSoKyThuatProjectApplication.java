@@ -9,7 +9,7 @@ public class ThongSoKyThuatProjectApplication {
 
     public static void main(String[] args)
     {
-     ApplicationContext context= SpringApplication.run(ThongSoKyThuatProjectApplication.class, args);
+     SpringApplication.run(ThongSoKyThuatProjectApplication.class, args);
     }
 }
 
